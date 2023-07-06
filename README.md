@@ -1,4 +1,4 @@
-# Credit_Card_Transaction_Fraud_Detection
+# **Credit_Card_Transaction_Fraud_Detection**
   
   This project aims to predict Credit Card Transaction Fraud using past data and user behavior. By applying machine learning algorithms to analyze historical transaction data and identify patterns indicative of fraudulent activities, the goal is to build a model that accurately classifies transactions as legitimate or fraudulent.
 
