@@ -37,3 +37,5 @@ The main objectives of this project are as follows:
 
 # Results
   The **Random Forest Classifier** demonstrated its effectiveness in distinguishing between legitimate and fraudulent credit card transactions, achieving an accuracy score of **98%**. This model can serve as a valuable tool for credit card companies and financial institutions in detecting and preventing fraudulent activities.
+
+  Model : https://drive.google.com/file/d/1IxO5ezzASfUiAFDKg98k8OHEQquQAF84/view?usp=sharing
